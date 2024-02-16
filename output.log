@@ -1,0 +1,88 @@
+2024-02-16 22:53:26,117 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - validating of directory: 0
+2024-02-16 22:53:26,117 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - Starting program
+2024-02-16 22:53:26,117 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - validating of directory: 1
+2024-02-16 22:53:26,118 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - Starting program
+2024-02-16 22:53:26,118 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - validating of directory: 2
+2024-02-16 22:53:26,118 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - Starting program
+2024-02-16 22:53:26,118 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - validating of directory: 3
+2024-02-16 22:53:26,118 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - Starting program
+2024-02-16 22:53:26,119 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - validating of directory: 4
+2024-02-16 22:53:26,119 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f75da01d700>> - INFO - Starting program
+2024-02-16 22:54:32,035 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - validating of directory: test02
+2024-02-16 22:54:32,035 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - failed to validate directory: test02
+2024-02-16 22:54:32,035 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - validating of directory: test01
+2024-02-16 22:54:32,036 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - failed to validate directory: test01
+2024-02-16 22:54:32,036 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - validating of directory: .~lock.examples.csv#
+2024-02-16 22:54:32,036 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - failed to validate directory: .~lock.examples.csv#
+2024-02-16 22:54:32,036 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - validating of directory: specimens.csv
+2024-02-16 22:54:32,037 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - failed to validate directory: specimens.csv
+2024-02-16 22:54:32,037 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - validating of directory: examples.csv
+2024-02-16 22:54:32,037 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb002cd6700>> - INFO - failed to validate directory: examples.csv
+2024-02-16 22:55:25,874 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - INFO - validating of directory: test02
+2024-02-16 22:55:25,874 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - ERROR - failed to validate directory: test02
+2024-02-16 22:55:25,874 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - INFO - validating of directory: test01
+2024-02-16 22:55:25,874 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - ERROR - failed to validate directory: test01
+2024-02-16 22:55:25,875 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - INFO - validating of directory: .~lock.examples.csv#
+2024-02-16 22:55:25,875 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - ERROR - failed to validate directory: .~lock.examples.csv#
+2024-02-16 22:55:25,875 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - INFO - validating of directory: specimens.csv
+2024-02-16 22:55:25,875 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - ERROR - failed to validate directory: specimens.csv
+2024-02-16 22:55:25,875 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - INFO - validating of directory: examples.csv
+2024-02-16 22:55:25,876 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f2fbcc1d700>> - ERROR - failed to validate directory: examples.csv
+2024-02-16 22:57:53,317 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f04331da460>> - INFO - validating of directory: test02
+2024-02-16 22:57:53,317 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f04331da460>> - INFO - validated directory: test02
+2024-02-16 22:58:36,175 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8126021460>> - INFO - validating of directory: test02
+2024-02-16 22:58:36,176 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8126021460>> - INFO - validated directory: test02
+2024-02-16 22:59:05,420 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validating of directory: test02
+2024-02-16 22:59:05,420 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validated directory: test02
+2024-02-16 22:59:05,421 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validating of directory: test01
+2024-02-16 22:59:05,421 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validated directory: test01
+2024-02-16 22:59:05,422 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validating of directory: .~lock.examples.csv#
+2024-02-16 22:59:05,422 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - ERROR - failed to validate directory: .~lock.examples.csv#
+2024-02-16 22:59:05,422 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validating of directory: specimens.csv
+2024-02-16 22:59:05,422 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - ERROR - failed to validate directory: specimens.csv
+2024-02-16 22:59:05,422 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - INFO - validating of directory: examples.csv
+2024-02-16 22:59:05,423 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f8f2b642700>> - ERROR - failed to validate directory: examples.csv
+2024-02-16 22:59:25,182 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f3d946b5460>> - INFO - validating of directory: test02
+2024-02-16 22:59:25,183 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f3d946b5460>> - INFO - validated directory: test02
+2024-02-16 23:00:50,148 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb72f39a460>> - INFO - validating of directory: test02
+2024-02-16 23:00:50,149 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fb72f39a460>> - INFO - validated directory: test02
+2024-02-16 23:01:01,713 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validating of directory: test02
+2024-02-16 23:01:01,714 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validated directory: test02
+2024-02-16 23:01:01,715 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validating of directory: test01
+2024-02-16 23:01:01,715 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validated directory: test01
+2024-02-16 23:01:01,716 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validating of directory: .~lock.examples.csv#
+2024-02-16 23:01:01,716 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - ERROR - failed to validate directory: .~lock.examples.csv#
+2024-02-16 23:01:01,716 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validating of directory: specimens.csv
+2024-02-16 23:01:01,716 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - ERROR - failed to validate directory: specimens.csv
+2024-02-16 23:01:01,716 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - INFO - validating of directory: examples.csv
+2024-02-16 23:01:01,716 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7fdcf2eda460>> - ERROR - failed to validate directory: examples.csv
+2024-02-16 23:02:47,304 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7feca7446490>> - INFO - validating of directory: test02
+2024-02-16 23:02:47,304 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7feca7446490>> - INFO - validated directory: test02
+2024-02-16 23:03:24,252 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f299c6b5460>> - INFO - validating of directory: test02
+2024-02-16 23:03:24,253 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f299c6b5460>> - INFO - validated directory: test02
+2024-02-16 23:04:28,698 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validating of directory: test02
+2024-02-16 23:04:28,699 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validated directory: test02
+2024-02-16 23:04:28,699 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validating of directory: test03
+2024-02-16 23:04:28,700 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validated directory: test03
+2024-02-16 23:04:28,700 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validating of directory: test01
+2024-02-16 23:04:28,700 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validated directory: test01
+2024-02-16 23:04:28,701 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validating of directory: .~lock.examples.csv#
+2024-02-16 23:04:28,701 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - ERROR - failed to validate directory: .~lock.examples.csv#
+2024-02-16 23:04:28,701 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validating of directory: specimens.csv
+2024-02-16 23:04:28,701 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - ERROR - failed to validate directory: specimens.csv
+2024-02-16 23:04:28,702 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - INFO - validating of directory: examples.csv
+2024-02-16 23:04:28,702 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f00a7fb5460>> - ERROR - failed to validate directory: examples.csv
+2024-02-16 23:12:11,034 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7ff9f74b5490>> - INFO - initialized PyRenameDirs...
+2024-02-16 23:12:11,035 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7ff9f74b5490>> - INFO - fetching fasta file directories
+2024-02-16 23:12:34,255 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - initialized PyRenameDirs...
+2024-02-16 23:12:34,255 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - fetching fasta file directories
+2024-02-16 23:12:34,255 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validating of directory: test02
+2024-02-16 23:12:34,256 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validated directory: test02
+2024-02-16 23:12:34,256 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validating of directory: test03
+2024-02-16 23:12:34,257 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validated directory: test03
+2024-02-16 23:12:34,257 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validating of directory: test01
+2024-02-16 23:12:34,257 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validated directory: test01
+2024-02-16 23:12:34,258 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validating of directory: .~lock.examples.csv#
+2024-02-16 23:12:34,258 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - ERROR - failed to validate directory: .~lock.examples.csv#
+2024-02-16 23:12:34,258 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - INFO - validating of directory: examples.csv
+2024-02-16 23:12:34,258 - <bound method PyRenameDirs.__str__ of <__main__.PyRenameDirs object at 0x7f971c7da490>> - ERROR - failed to validate directory: examples.csv
